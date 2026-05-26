@@ -1,0 +1,9 @@
+{
+  "name": "AJR: The Journey Scoreboard",
+  "short_name": "AJR Scoreboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "description": "A daily scoreboard for money, body, nutrition, content, and recovery."
+}
